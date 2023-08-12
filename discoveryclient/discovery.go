@@ -5,7 +5,7 @@ package discoveryclient
 
 import (
 	"context"
-	"github.com/wangdzhao/community/discovery/pb"
+	"github.com/wangdzhao/discovery/pb"
 
 	"github.com/zeromicro/go-zero/zrpc"
 	"google.golang.org/grpc"

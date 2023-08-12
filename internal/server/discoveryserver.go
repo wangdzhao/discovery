@@ -5,10 +5,10 @@ package server
 
 import (
 	"context"
-	"github.com/wangdzhao/community/discovery/pb"
+	"github.com/wangdzhao/discovery/pb"
 
-	"github.com/wangdzhao/community/discovery/internal/logic"
-	"github.com/wangdzhao/community/discovery/internal/svc"
+	"github.com/wangdzhao/discovery/internal/logic"
+	"github.com/wangdzhao/discovery/internal/svc"
 )
 
 type DiscoveryServer struct {

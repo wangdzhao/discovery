@@ -3,9 +3,9 @@ package handler
 import (
 	"net/http"
 
-	"github.com/wangdzhao/community/discovery/internal/logic"
-	"github.com/wangdzhao/community/discovery/internal/svc"
-	"github.com/wangdzhao/community/discovery/internal/types"
+	"github.com/wangdzhao/discovery/internal/logic"
+	"github.com/wangdzhao/discovery/internal/svc"
+	"github.com/wangdzhao/discovery/internal/types"
 	"github.com/zeromicro/go-zero/rest/httpx"
 )
 

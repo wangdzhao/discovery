@@ -3,9 +3,9 @@ package logic
 import (
 	"context"
 
-	pb "github.com/wangdzhao/community/discovery/pb"
+	pb "github.com/wangdzhao/discovery/pb"
 
-	"github.com/wangdzhao/community/discovery/internal/svc"
+	"github.com/wangdzhao/discovery/internal/svc"
 	"github.com/zeromicro/go-zero/core/logx"
 )
 

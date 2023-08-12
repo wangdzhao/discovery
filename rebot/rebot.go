@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	util "github.com/wangdzhao/community/discovery/util"
+	util "github.com/wangdzhao/discovery/util"
 
 	"github.com/eatmoreapple/openwechat"
 )

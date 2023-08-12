@@ -1,4 +1,4 @@
-module github.com/wangdzhao/community/discovery
+module github.com/wangdzhao/discovery
 
 go 1.20
 

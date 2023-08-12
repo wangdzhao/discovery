@@ -4,9 +4,9 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/wangdzhao/community/discovery/internal/config"
-	"github.com/wangdzhao/community/discovery/internal/handler"
-	"github.com/wangdzhao/community/discovery/internal/svc"
+	"github.com/wangdzhao/discovery/internal/config"
+	"github.com/wangdzhao/discovery/internal/handler"
+	"github.com/wangdzhao/discovery/internal/svc"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/rest"

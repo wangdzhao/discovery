@@ -3,7 +3,7 @@ package rebot
 import (
 	"fmt"
 
-	util "github.com/wangdzhao/community/discovery/util"
+	util "github.com/wangdzhao/discovery/util"
 
 	//"pinchequn/config"
 	//"pinchequn/util"

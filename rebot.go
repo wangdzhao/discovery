@@ -1,7 +1,7 @@
 package main
 
 import (
-	rebot "github.com/wangdzhao/community/discovery/rebot"
+	rebot "github.com/wangdzhao/discovery/rebot"
 )
 
 func startRebot() {
