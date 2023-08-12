@@ -1,0 +1,12 @@
+type Request {
+	Name string `path:"name"`
+}
+
+type Response {
+	Message string `json:"message"`
+}
+
+service discovery-api {
+	@handler DiscoveryHandler
+	get /from/:name(Request) returns (Response)
+}
